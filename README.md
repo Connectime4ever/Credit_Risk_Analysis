@@ -6,7 +6,7 @@
 #### Besides,  ***RandomOverSampler*** and ***SMOTE*** algorithms are used to oversample the data while ***ClusterCentroids*** algorithm are used to undersample the data. 
 #### As requested a combinatorial approach of over and undersampling is performed by usign ***SMOTEENN*** algorithm. 
 #### To predict credit risk, the two new machine learning models that reduce bias (***BalanceRandomForestClassifier*** and ***EasyEmsembleClassifier***) are compared. 
-Additionally, a recommendation on wether they shoudl be used to predict credit risk is requested. 
+#### Additionally, a recommendation on wether they shoudl be used to predict credit risk is requested. 
 
 
 ## Results
