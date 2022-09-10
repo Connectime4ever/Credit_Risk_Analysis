@@ -52,4 +52,5 @@
 
 ## Summary
 
-The recommended model to use to predict the credict risk is Easy Ensemble AdaBoost Classifier. This model shows the highest accuracy rate with 0.925427358175101, as well as high rates of precision (0.99), sensitivity (0.94), and the F1 score at 0.97 is also high. 
+As the outputs of all the models run are non continue but discrete values, in this particular case the accuracy rate is not the best way to assess the model performance.  Therefore, the recommended model to use to predict the credit risk is the  Balanced Random Forest Classifier model. This model shows a precision rate and a sensitivity rate of 1.0, hence a perfect F1 score of 1.0.  
+
