@@ -25,17 +25,29 @@
 </tbody>
 </table>
 
+![D](https://github.com/Connectime4ever/Credit_Risk_Analysis/blob/main/D.png)
 
 
 + ***RANDOM OVERSAMPLING Model***
-
-
+![D11](https://github.com/Connectime4ever/Credit_Risk_Analysis/blob/main/D11.png)
 
 + ***SMOTE OVERSAMPLING Model***
+![D12](https://github.com/Connectime4ever/Credit_Risk_Analysis/blob/main/D12.png)
+
 + ***CLUSTER CENTROIDS UNDERSAMPLING Model***
+![D13](https://github.com/Connectime4ever/Credit_Risk_Analysis/blob/main/D13.png)
+
 + ***SMOTEENN COMBINATION SAMPLING***
+![D14](https://github.com/Connectime4ever/Credit_Risk_Analysis/blob/main/D14.png)
+
 + ***BALANCED RANDOM FOREST CLASSIFIER Model***
+![D21](https://github.com/Connectime4ever/Credit_Risk_Analysis/blob/main/D21.png)
+
+![D22](https://github.com/Connectime4ever/Credit_Risk_Analysis/blob/main/D22.png)
+
 + ***EASY ENSEMBLE AdaBoost CLASSIFIER Model***
+![D23](https://github.com/Connectime4ever/Credit_Risk_Analysis/blob/main/D23.png)
+
 
 
 ## Summary
